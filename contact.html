@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>3D Print Forge | Contact</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <a class="skip-link" href="#main-content">Skip to content</a>
+
+    <div id="site-nav"></div>
+    <div id="cart-root"></div>
+
+    <main id="main-content" class="form-container">
+        <h1>Contact</h1>
+        <p>Send an email to <a href="mailto:3dpsupport@proton.me" class="highlight-link">3dpsupport@proton.me</a> or leave your email and a message below.</p>
+        
+        <form id="contact-form" class="contact-form">
+            <label for="visitor-email">Your Email Address</label>
+            <input type="email" id="visitor-email" required placeholder="you@example.com">
+
+            <label for="note">Message</label>
+            <textarea id="note" rows="6" required placeholder="Tell us what you're looking for and how we can help..."></textarea>
+
+            <button type="submit" class="btn">Send Message</button>
+            <p id="form-status" class="form-status" aria-live="polite"></p>
+            <p id="form-fallback" class="form-fallback"></p>
+        </form>
+    </main>
+    <script src="nav.js"></script>
+    <script src="cart.js"></script>
+    <script src="contact.js"></script>
+</body>
+</html>

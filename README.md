@@ -4,4 +4,5 @@ Using this for a live view of my website so I can test browsers and certain func
 
 If you have any suggestions feel free to email me via the email on my site.
 
+Next Steps:
 Use Google Forms/Tally for file uploads and Stripe Payment Links for payments. If updating the HTML files manually is becoming too tedious look into a Static Site Generator or a Headless CMS.

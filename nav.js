@@ -9,11 +9,11 @@ if (navContainer) {
             <a href="products.html" aria-haspopup="true" aria-expanded="false">Products</a>
             <div class="dropdown-menu">
                 <a href="products.html#fpv-parts" class="dropdown-item">
-                    <span class="dropdown-image" aria-hidden="true">📡</span>
+                    <span class="dropdown-image" aria-hidden="true">✈️</span>
                     <span>FPV Parts</span>
                 </a>
                 <a href="products.html#storage" class="dropdown-item">
-                    <span class="dropdown-image" aria-hidden="true">📦</span>
+                    <span class="dropdown-image" aria-hidden="true">🧰</span>
                     <span>Storage</span>
                 </a>
                 <a href="products.html#more-products" class="dropdown-item">
